@@ -3,7 +3,7 @@ This Java program simulates a simple library system using object-oriented progra
 How To Install:
 
 Clone the repostiory:
-git clone https://github.com/AliS942/CIS18B-S25-33479-Assignment2
+git clone https://github.com/AliS942/AliS942-CIS18B-S25-33479-Assignment2
 
 Compile and Run the Library System Project
 Navigate to the project folder using the cd command.
